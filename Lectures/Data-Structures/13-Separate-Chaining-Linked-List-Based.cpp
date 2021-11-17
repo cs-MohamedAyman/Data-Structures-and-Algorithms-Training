@@ -82,7 +82,7 @@ void print_linked_list(node* curr_head) {
 
 // Initialize a hash table with static length
 const int hash_table_size = 1e3+9;
-// Initialize a global array pointer for heads
+// Initialize a global array of pointer for heads
 node* head[hash_table_size];
 
 // This function calculates the hash value of the given key with type string

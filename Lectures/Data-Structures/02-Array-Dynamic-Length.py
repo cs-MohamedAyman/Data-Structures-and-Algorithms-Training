@@ -45,7 +45,7 @@ def delete_element(idx):
         return
     # loop to shif values till reach end of the array
     j = idx
-    while (j < n):
+    while j < n - 1:
         arr[j] = arr[j+1]
         j = j + 1
     # update the size of the array
@@ -70,7 +70,7 @@ def search_element(item):
 def print_array():
     i = 0
     # loop to prthe elements in the array
-    while (i < n):
+    while i < n:
         print(arr[i], end=' ')
         i = i + 1
 

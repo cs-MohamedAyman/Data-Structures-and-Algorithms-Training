@@ -66,18 +66,10 @@ def print_linked_list(curr_head):
         print(curr.data, end=' ')
         curr = curr.nxt
 
-# This function deletes all nodes in the linked list in iterative way
-def delete_linked_list(curr_head):
-    curr = curr_head
-    while curr != None:
-        curr_head = curr_head.nxt
-        del curr
-        curr = curr_head
-
 
 # Initialize a hash table with static length
 hash_table_size = int(1e3)+9
-# Initialize a global array pointer for heads
+# Initialize a global array of pointer for heads
 head = [None] * hash_table_size
 
 # This function calculates the hash value of the given key with type string

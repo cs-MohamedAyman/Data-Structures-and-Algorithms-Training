@@ -48,7 +48,7 @@ void delete_element(int idx) {
         return;
     // loop to shif values till reach end of the array
     int j = idx;
-    while (j < n) {
+    while (j < n - 1) {
         arr[j] = arr[j+1];
         j = j + 1;
     }
