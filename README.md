@@ -686,19 +686,5 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Sarada%20Herke.jpg" width="80%"></img></td>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Byte%20by%20Byte.jpg" width="80%"></img></td>
         </tr>
-        <tr>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Nargish Gupta Playlists</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Code Ncode Playlists</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Exam Aasaan Hai Playlists</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Dinesh Varyani Playlists</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Coding Simplified Playlists</a></td>
-        </tr>
-        <tr>
-<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Nargish%20Gupta.jpg" width="80%"></img></td>
-<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Code%20Ncode.jpg" width="80%"></img></td>
-<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Exam%20Aasaan%20Hai.jpg" width="80%"></img></td>
-<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Dinesh%20Varyani.jpg" width="80%"></img></td>
-<td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Coding%20Simplified.jpg" width="80%"></img></td>
-        </tr>
     </tbody>
 </table>
