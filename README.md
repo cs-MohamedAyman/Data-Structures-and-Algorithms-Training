@@ -249,7 +249,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <br><br>
 
 ## [`Assignments`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
+### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `20 Tasks`
 <br>
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg"></img>
@@ -260,33 +260,33 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <table>
     <tbody>
         <tr>
-            <td align=center width="125px"># Assignment</td>
+            <td align=center width="100px"># Assignment</td>
             <td align=center width="425px">Assignment Name</td>
-            <td align=center width="125px"># Assignment</td>
+            <td align=center width="100px"># Assignment</td>
             <td align=center width="425px">Assignment Name</td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 01</td>
+            <td align=center width="100px">01</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">String Problems I</a></td>
-            <td align=center width="125px">Assignment 05</td>
+            <td align=center width="100px">05</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Linear Data Structures Problems I</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 02</td>
+            <td align=center width="100px">02</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Data Structures Problems I</a></td>
-            <td align=center width="125px">Assignment 06</td>
+            <td align=center width="100px">06</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Linear Data Structures Problems II</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 03</td>
+            <td align=center width="100px">03</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">String Problems II</a></td>
-            <td align=center width="125px">Assignment 07</td>
+            <td align=center width="100px">07</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Non-Linear Data Structures Problems I</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 04</td>
+            <td align=center width="100px">04</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Data Structures Problems II</a></td>
-            <td align=center width="125px">Assignment 08</td>
+            <td align=center width="100px">08</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Non-Linear Data Structures Problems II</a></td>
         </tr>
     </tbody>
@@ -300,39 +300,39 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <table>
     <tbody>
         <tr>
-            <td align=center width="125px"># Assignment</td>
+            <td align=center width="100px"># Assignment</td>
             <td align=center width="425px">Assignment Name</td>
-            <td align=center width="125px"># Assignment</td>
+            <td align=center width="100px"># Assignment</td>
             <td align=center width="425px">Assignment Name</td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 01</td>
+            <td align=center width="100px">01</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Greedy Problems I</a></td>
-            <td align=center width="125px">Assignment 06</td>
+            <td align=center width="100px">06</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Searching Algorithms Problems</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 02</td>
+            <td align=center width="100px">02</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems I</a></td>
-            <td align=center width="125px">Assignment 07</td>
+            <td align=center width="100px">07</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Sorting Algorithms Problems</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 03</td>
+            <td align=center width="100px">03</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Greedy Problems II</a></td>
-            <td align=center width="125px">Assignment 08</td>
+            <td align=center width="100px">08</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Problems I</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 04</td>
+            <td align=center width="100px">04</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems II</a></td>
-            <td align=center width="125px">Assignment 09</td>
+            <td align=center width="100px">09</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Problems II</a></td>
         </tr>
         <tr>
-            <td align=center width="125px">Assignment 05</td>
+            <td align=center width="100px">05</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Brute Force Problems</a></td>
-            <td align=center width="125px">Assignment 10</td>
+            <td align=center width="100px">10</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Dynamic Programming Problems</a></td>
         </tr>
     </tbody>
