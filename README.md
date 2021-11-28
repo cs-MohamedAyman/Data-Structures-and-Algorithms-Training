@@ -34,7 +34,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
         <tr>
             <td align=center width="25px">20</td>
             <td align=center width="175px">💡 Assignments</td>
-            <td align=center width="25px">300</td>
+            <td align=center width="25px">400</td>
             <td align=center width="175px">🏷️ Tasks</td>
             <td align=center width="25px">40</td>
             <td align=center width="175px">🎮 Projects</td>
