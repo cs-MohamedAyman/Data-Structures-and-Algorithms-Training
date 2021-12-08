@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Analysis Training Lectures
+# Data Structures and Algorithms Analysis Lectures
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
@@ -18,9 +18,7 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
     * [Module 1: Basic Algorithms](#Module-1-Basic-Algorithms)
     * [Module 2: Graph Algorithms and Dynamic Programming](#Module-2-Graph-Algorithms-and-Dynamic-Programming)
 
-<br>
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
-<br><br><br><br>
+<br><br>
 
 ## `Discrete Mathematics` Lectures
 
