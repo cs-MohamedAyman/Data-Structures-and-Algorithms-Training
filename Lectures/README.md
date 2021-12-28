@@ -1,8 +1,8 @@
 # Data Structures and Algorithms Analysis Lectures
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/algorithms-analysis.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/data-structures.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/discrete-mathematics.jpg"></img>
 <br><br><br><br><br>
 
 Data Structures and Algorithms Analysis Training Lectures for computer science students.
@@ -25,7 +25,7 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 
 ## `Discrete Mathematics` Lectures
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/discrete-mathematics.jpg"></img>
 
 ### `Module 1` Proofs and Structures
 
@@ -90,7 +90,7 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 </details>
 
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/discrete-mathematics.jpg"></img>
 
 ### `Module 2` Graphs and Trees
 
@@ -157,7 +157,7 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 
 ## `Data Structures` Lectures
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/data-structures.jpg"></img>
 
 ### `Module 1` Linear Data Structures
 
@@ -236,7 +236,7 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 </details>
 
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/data-structures.jpg"></img>
 
 ### `Module 2` Non-Linear Data Structures
 
@@ -323,7 +323,7 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 
 ## `Algorithms Analysis` Lectures
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/algorithms-analysis.jpg"></img>
 
 ### `Module 1` Basic Algorithms
 
@@ -400,7 +400,7 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 </details>
 
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/algorithms-analysis.jpg"></img>
 
 ### `Module 2` Graph Algorithms and Dynamic Programming
 
