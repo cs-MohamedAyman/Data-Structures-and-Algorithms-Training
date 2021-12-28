@@ -1,8 +1,8 @@
 # Data Structures and Algorithms Analysis Training
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/algorithms-analysis.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/data-structures.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/discrete-mathematics.jpg"></img>
 <br><br><br><br><br>
 
 Data Structures and Algorithms Analysis Training for computer science students.
@@ -72,7 +72,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 ### :bookmark_tabs: `1 Lecture` :clock4: `3 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `15 Practices` 
 <br>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/discrete-mathematics.jpg"></img>
 <br>
 
 ### `Discrete Mathematics` Lectures
@@ -124,7 +124,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
     </tbody>
 </table>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/data-structures.jpg"></img>
 <br>
 
 ### `Data Structures` Lectures
@@ -182,7 +182,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
     </tbody>
 </table>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/algorithms-analysis.jpg"></img>
 <br>
 
 ### `Algorithms Analysis` Lectures
@@ -242,7 +242,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 ### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `20 Tasks`
 <br>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/data-structures.jpg"></img>
 <br>
 
 ### `Data Structures` Assignments
@@ -282,7 +282,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
     </tbody>
 </table>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/algorithms-analysis.jpg"></img>
 <br>
 
 ### `Algorithms Analysis` Assignments
@@ -387,18 +387,6 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/dropdom-game.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md"></a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md"></a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md"></a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md"></a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
-        </tr>
-        <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">8 Queens Game</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Knights Tour Game</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Chess Endgame Game</a></td>
@@ -458,6 +446,18 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
         </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md"></a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md"></a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md"></a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md"></a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="80%"></img></td>
+        </tr>
     </tbody>
 </table>
 
@@ -468,7 +468,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 ## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/README.md)
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/discrete-mathematics.jpg"></img>
 
 ### `Discrete Mathematics` Textbooks
 
@@ -503,8 +503,8 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 <br>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/data-structures.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/algorithms-analysis.jpg"></img>
 
 ### `Data Structures and Algorithms Analysis` Textbooks
 
