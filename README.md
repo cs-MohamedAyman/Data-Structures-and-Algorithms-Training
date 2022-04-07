@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Analysis Training
+# Data Structures and Algorithms Training
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/algorithms-analysis.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-structures.jpg">
