@@ -25,7 +25,7 @@ Data Structures and Algorithms Training for computer science students.
 <td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bookmark.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>30<br>Lectures</h3></td>
 <td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cardindex.jpg" width="90%"></img></td>
-<td align=center width="15%"><h3>180<br>Sections</h3></td>
+<td align=center width="15%"><h3>180<br>Lectures Lessons</h3></td>
 <td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/memo.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>60<br>Quizzes</h3></td>
 <td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/paperclip.jpg" width="90%"></img></td>
@@ -81,7 +81,7 @@ Data Structures and Algorithms Training for computer science students.
 <br><br>
 
 ## [`Lectures`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) 
-### :bookmark_tabs: `1 Lecture` :clock4: `2 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `10 Practices` 
+### :bookmark_tabs: `1 Lecture` :clock4: `2 Hours` :card_index: `6 Lessons` :pencil: `2 Quizzes` :paperclip: `10 Practices` 
 
 <br>
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/discrete-mathematics.jpg"></img>
